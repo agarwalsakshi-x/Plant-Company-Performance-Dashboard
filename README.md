@@ -52,13 +52,13 @@ This dashboard demonstrates how operational data can be transformed into:
 - Country and product-level insights  
 - Executive-ready reporting for strategic planning
 
-- ## Tools & Technologies
+## Tools & Technologies
 - **Power BI**
 - **DAX**
 - **Data Modeling**
 - **Interactive Data Visualization**
 
-## DashBoard 
+### Results: 
 
 ## Gross Profit Performance Dashboard:
 
